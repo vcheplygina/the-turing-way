@@ -10,7 +10,7 @@
 
 | Test | Status |
 | :--- | :--- |
-| Netlify build | [![Build Status](https://img.shields.io/travis/alan-turing-institute/the-turing-way/master?logo=travis)](https://travis-ci.org/alan-turing-institute/the-turing-way) |
+| Netlify build | [![Netlify Status](https://api.netlify.com/api/v1/badges/013bab31-894f-4298-bbe9-423f7e617483/deploy-status)](https://app.netlify.com/sites/lucid-borg-a5d91c/deploys) |
 | No Latin Phrases | ![NoBadLatin](https://github.com/alan-turing-institute/the-turing-way/workflows/NoBadLatin/badge.svg) |
 | No Large Files | ![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg) |
 | No "_Lorem Ipsum_"s | ![LoremIpsums](https://github.com/alan-turing-institute/the-turing-way/workflows/LoremIpsums/badge.svg) |
