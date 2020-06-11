@@ -19,6 +19,13 @@
   force = true
 
 [[redirects]]
+  from = "https://the-turing-way.netlify.app/introduction/introduction"
+  to = "https://the-turing-way.netlify.app/welcome"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/reproducible-research"
   to = "/reproducible-research/reproducible-research"
   # The default HTTP status code is 301, but you can define a different one.
@@ -75,15 +82,8 @@
   force = true
 
 [[redirects]]
-  from = "reproducibility/03/definitions"
+  from = "/reproducibility/03/definitions"
   to = "/reproducible-research/overview/overview-definitions"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducibility/04/*"
-  to = "/reproducible-research/overview"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
