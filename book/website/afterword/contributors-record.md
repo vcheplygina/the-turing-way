@@ -508,7 +508,7 @@ Details of each members with their contributions have been listed alphabetically
 
 #### Carlos Martinez Oritz
 
-* Role: Community manager, Netherlands eScience Center
+* Role: **Community manager**
 * GitHub id: [c-martinez](http://github.com/c-martinez)
 * ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
 * Short bio:
@@ -522,17 +522,19 @@ Details of each members with their contributions have been listed alphabetically
 
 #### Mateusz Kuzak
 
-* Role: Community manager, Netherlands eScience Center
+* Role: **Community manager**
 * GitHub id: [mkuzak](http://github.com/mkuzak)
 * ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
 * Short bio:
-> Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Counsil member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
+>Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Counsil member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
 
 * Personal highlights:
-> <TBA>
+> In _The Turing Way_...
+>
 
 * More information:
-> <TBA>
+>
+>
 
 (aw-contributors-record-contributors)=
 ## Contributors
@@ -793,6 +795,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <td align="center"><a href="http://www.drrebeccawilson.co.uk"><img src="https://avatars0.githubusercontent.com/u/5114032?v=4" width="100px;" alt=""/><br /><sub><b>beccawilson</b></sub></a><br /><a href="#a11y-beccawilson" title="Accessibility">️️️️♿️</a></td>
 <td align="center"><a href="https://github.com/yaseminturkyilmaz"><img src="https://avatars3.githubusercontent.com/u/45484225?v=4" width="100px;" alt=""/><br /><sub><b>yaseminturkyilmaz</b></sub></a><br /><a href="#blog-yaseminturkyilmaz" title="Blogposts">📝</a></td>
 <td align="center"><a href="https://github.com/Karvovskaya"><img src="https://avatars3.githubusercontent.com/u/44666630?v=4" width="100px;" alt=""/><br /><sub><b>Lenka</b></sub></a><br /><a href="#blog-Karvovskaya" title="Blogposts">📝</a></td>
+<td align="center"><a href="https://github.com/MariaEriksson"><img src="https://avatars1.githubusercontent.com/u/43676485?v=4" width="100px;" alt=""/><br /><sub><b>Maria Eriksson</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3AMariaEriksson" title="Bug reports">🐛</a></td>
 </tr>
 </table>
 
